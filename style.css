@@ -1,0 +1,14 @@
+body{
+   font-family: "Handlee", cursive;
+   font-weight: 600; 
+}
+
+.home .bg-img{
+    background-image: url("images/bgimg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.home-container .layer {
+    background-color: rgba(44, 44, 43, 0.6);
+}
